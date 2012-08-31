@@ -1,0 +1,7 @@
+---
+layout: post
+title: "dfsdfsf"
+date: 2012-08-30 13:52
+comments: true
+categories: 
+---
